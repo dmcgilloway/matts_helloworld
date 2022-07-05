@@ -5,7 +5,6 @@ import Greeting from './components/Greeting';
 import SongList from './components/SongList';
 
 //this an edit
-//this annother comment
 function App() {
   return (
     <div className="App">
